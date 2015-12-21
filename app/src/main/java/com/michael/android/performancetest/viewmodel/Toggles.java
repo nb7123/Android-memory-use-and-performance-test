@@ -6,6 +6,7 @@ import com.michael.android.performancetest.BR;
 
 /**
  * Created by michael on 15/12/21.
+ * 
  */
 public class Toggles extends BaseObservable
 {
